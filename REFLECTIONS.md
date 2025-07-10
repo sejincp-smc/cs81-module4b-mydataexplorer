@@ -11,4 +11,4 @@
 but it felt good when it finally worked.
 
 ## How did using your own data change things?
-- It made me think about the importance of data validation, even I worked with my own data.
+- It made me think about the importance of data validation, even I worked with my own data because just a small mistake could affect the whole result.
